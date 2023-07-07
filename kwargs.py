@@ -25,4 +25,5 @@ def funcion_kwargs(**kwargs):
 funcion_kwargs(
     entrada="Papa a la huancaína",
     segundo="Tallarines verdes",
+    postre="Mazamorra"
 )
